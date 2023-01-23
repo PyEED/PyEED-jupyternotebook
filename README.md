@@ -1,8 +1,8 @@
 # PyEED-jupyternotebook
 Jupyter notebook datamodel\
-This data model consists of a pipeline work to be used for biological analysis uses, as the data gathering step is over all of the data will be stored in a database of your creation, later the database can be expended or the data can be used for further analysis.\\
+This data model consists of a pipeline work to be used for biological analysis uses, as the data gathering step is over all of the data will be stored in a database of your creation, later the database can be expended or the data can be used for further analysis.\
 
-The pipe line starts with all of the required installations and packages.\\
+The pipe line starts with all of the required installations and packages.\
 
 1.Perform a protein-to-protein BLAST search using a relevant protein fasta file, then record the results in an XML file. All related sequences and accession numbers will be saved inside the xml file.\
 2.Each protein's accession number can be used to find the organism name and taxonomy id, later to be inserted into the database.
